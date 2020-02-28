@@ -63,5 +63,5 @@ process in the order of execution. <br>
 
 ## <b> Images: </b><br>
 ###### <b> visualizer</b><br>
-![alt text](https://imgur.com/GcXeipo)
+![alt text](https://i.imgur.com/GcXeipo.png)
 
