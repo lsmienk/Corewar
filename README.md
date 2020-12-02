@@ -1,5 +1,5 @@
 # Corewar
-A virtual “arena” in which programs will fight against one another (the “Champions”).a virtual “arena” in which programs will fight against one another (the “Champions”).
+A virtual “arena” in which programs will fight against one another (the “Champions”).
 
 ## <b> Introduction: </b><br>
 Corewar is a very peculiar game. It’s about bringing “players” together around a
